@@ -74,7 +74,7 @@
 						<div class="lefttext">
 							<h3>Windows</h3>
 							<br>
-							OS: 32 or 64bit of Windows 7, 8 or 10<br>
+							OS: 32 or 64bit of Windows 10<br>
 							DirectX: Version 11<br>
 							Processor: Intel Core i5 or AMD equivalent<br>
 							Memory: 2GB RAM<br>
