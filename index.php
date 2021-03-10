@@ -17,25 +17,25 @@
 		<meta name="google-site-verification" content="bKPt9IGPvVVP2QcBkKjv9jnmHPhqlhY59lRzxezPjEY" />
 	</head>
 	<body>
+    <h1 id="top"></h1>
 		<div id="wrapper">
 			<div id="header-wrapper">
 				<div id="header" class="container">
 					<div id="logo">
-						<a href="#top"><img src="https://cdn.oktodark.com/game/blockade/images/logo.png" alt="logo"/></a>
+                        <img src="https://cdn.oktodark.com/game/blockade/images/logo.png" alt="logo"/>
 					</div>
 					<div id="menu">
 						<ul>
-							<li><a href="#top" title="">Homepage</a></li>
-							<li><a href="#about" title="">About</a></li>
-							<li><a href="#requirements" title="">Requirements</a></li>
-							<li><a href="#roadmap" title="">Roadmap</a></li>
-							<li><a href="https://www.oktodark.com" title="">Main Website</a></li>
+							<li><a href="#top">Homepage</a></li>
+							<li><a href="#about">About</a></li>
+							<li><a href="#requirements">Requirements</a></li>
+							<li><a href="#roadmap">Roadmap</a></li>
+							<li><a href="https://www.oktodark.com">Main Website</a></li>
 						</ul>
 					</div>
 				</div>
 			</div>
-
-			<a name="about"></a>
+            <h1 id="about"></h1>
 			<div id="page" class="container">
 				<div class="title">
 					<h2>About</h2>
@@ -52,7 +52,6 @@
 					<button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
 				</div>
 			</div>
-
 			<div id="banner">
 				<div class="container">
 					<div class="title">
@@ -66,8 +65,7 @@
 					<span class="note">The game is archived and requires unzipping. Use the 7zip program, it's free.</span>
 				</div>
 			</div>
-
-			<a name="requirements"></a>
+            <h1 id="requirements"></h1>
 			<div id="featured">
 				<div class="container">
 					<div class="title">
@@ -86,8 +84,7 @@
 					</div>
 				</div>
 			</div>
-
-			<a name="roadmap"></a>
+            <h1 id="roadmap"></h1>
 			<div id="extra" class="container">
 				<div class="title">
 					<h2>Roadmap</h2>
@@ -95,7 +92,6 @@
 						<span class="byline">Please note that the game is in Alpha version.<br>Below you will see the functions we hope to add in the near future.<br>Trello Board: <a href="https://trello.com/b/JkrfupIg/blockade">https://trello.com/b/JkrfupIg/blockade</a></span>
 					</div>
 				</div>
-
 				<div id="three-column">
 					<div class="boxA">
 						<div class="box">
@@ -119,7 +115,6 @@
 						</div>
 					</div>
 				</div>
-
 				<div id="three-column">
 					<div class="boxA">
 						<div class="box">
@@ -143,14 +138,10 @@
 						</div>
 					</div>
 				</div>
-
 				<ul class="actions">
 					<li><a href="https://forum.oktodark.com/viewtopic.php?f=4&t=7" class="changelog">Changelog</a></li>
 				</ul>
 			</div>
-	
-
-	
 		</div>
 		<div id="copyright" class="container">
 			<p>2021 &copy; OktoDark. All rights reserved.</p>
