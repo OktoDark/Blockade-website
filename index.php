@@ -40,7 +40,7 @@
 				<div class="title">
 					<h2>About</h2>
 				</div>
-				<p>Blockade is our first game and is in the development stage. New and updated versions of the game will be released every few weeks. The game is easy, just find your way to the exit of the maze.</p>
+                <p>Blockade is our first Free game and is in the development stage. New and updated versions of the game will be released every few weeks. The game is easy, just find your way to the exit of the maze.</p>
 				<div class="w3-content w3-display-container">
 					<h4>Screenshots</h4>
 					<img src="images/image1.png" class="ingame" alt="" />
@@ -89,7 +89,7 @@
 				<div class="title">
 					<h2>Roadmap</h2>
 					<div class="note">
-						<span class="byline">Please note that the game is in Alpha version.<br>Below you will see the functions we hope to add in the near future.<br>Trello Board: <a href="https://trello.com/b/JkrfupIg/blockade">https://trello.com/b/JkrfupIg/blockade</a></span>
+                        <span class="byline">Please note that the game is in Beta version.<br>Below you will see the functions we hope to add in the near future.<br><a href="https://trello.com/b/JkrfupIg/blockade">Trello</a> Board Roadmap</span>
 					</div>
 				</div>
 				<div id="three-column">
